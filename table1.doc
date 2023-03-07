@@ -1,0 +1,14 @@
+
+<table style="text-align:center"><caption><strong>Table X. Pair wise comparison</strong></caption>
+<tr><td colspan="6" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">feed.a</td><td>feed.b</td><td>true.dmi.a</td><td>true.dmi.b</td><td>pref.ratio</td><td>p.val</td></tr>
+<tr><td colspan="6" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Saga</td><td>Fishtail</td><td>134.75 51.3</td><td>23.25 5.8</td><td>0.85</td><td>0.02</td></tr>
+<tr><td style="text-align:left">Starfruit</td><td>Acacia</td><td>201.5 33.4</td><td>63.75 7</td><td>0.74</td><td>0</td></tr>
+<tr><td style="text-align:left">Fishtail</td><td>Acacia</td><td>109.5 25.4</td><td>87.75 14.5</td><td>0.55</td><td>0.61</td></tr>
+<tr><td style="text-align:left">Starfruit</td><td>Nangka</td><td>121.75 19.9</td><td>89.5 19.3</td><td>0.5</td><td>0.36</td></tr>
+<tr><td style="text-align:left">Saga</td><td>Nangka</td><td>130 33</td><td>169.25 21.3</td><td>0.46</td><td>0.45</td></tr>
+<tr><td style="text-align:left">Saga</td><td>Acacia</td><td>145.75 43.3</td><td>132.5 21.3</td><td>0.66</td><td>0.97</td></tr>
+<tr><td style="text-align:left">Nangka</td><td>Acacia</td><td>165 16.1</td><td>128.75 9.1</td><td>0.59</td><td>0.22</td></tr>
+<tr><td style="text-align:left">Starfruit</td><td>Fishtail</td><td>112.5 31.3</td><td>110.75 28.7</td><td>0.48</td><td>0.98</td></tr>
+<tr><td style="text-align:left">Nangka</td><td>Fishtail</td><td>106.75 13.3</td><td>73 10.2</td><td>0.55</td><td>0.05</td></tr>
+<tr><td style="text-align:left">Starfruit</td><td>Saga</td><td>151 33.2</td><td>113.75 38.3</td><td>0.6</td><td>0.49</td></tr>
+<tr><td colspan="6" style="border-bottom: 1px solid black"></td></tr></table>
